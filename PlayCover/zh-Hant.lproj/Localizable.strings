@@ -366,3 +366,5 @@
 "macos.version" = "This app can be installed from Mac App Store";
 "ipaLibrary.AlphabeticalSort" = "Sort source apps alphabetically";
 "alert.install.anyway" = "Install Anyway";
+"settings.slider.scrollWheelSpeed" = "滾輪速度：%.2f";
+"settings.slider.scrollWheelSpeed.help" = "滾輪每格模擬滑動的距離，調低更慢。";

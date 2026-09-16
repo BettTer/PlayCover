@@ -42,6 +42,7 @@ struct AppSettingsData: Codable {
     var rootWorkDir = true
     var noKMOnInput = true
     var enableScrollWheel = true
+    var scrollWheelSpeed: Float = 4
     var hideTitleBar = false
     var floatingWindow = false
     var checkMicPermissionSync = false
